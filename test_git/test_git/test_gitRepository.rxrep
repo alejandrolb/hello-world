@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<repository
+name="test_gitRepository"
+id="424b1dd6-bd58-4f98-8cad-c1e54e74be1c"
+rxversion="7.2">
+  <codegen
+  classname="test_gitRepository"
+  namespace="test_git"/>
+  <rootfolder
+  name="Root"
+  id="4d3fa765-c392-4424-a0c5-368368e6d227"
+  searchtimeout="30000ms"
+  capname="unknown"
+  isrooted="True"
+  usecache="True">
+    <basepath/>
+  </rootfolder>
+  <variables/>
+</repository>
